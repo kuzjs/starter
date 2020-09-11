@@ -1,0 +1,6 @@
+#!/usr/bin/node
+
+const kaagazz = require("./kaagazz_app/kaagazz").kaagazz;
+kaagazz.Run();
+
+
