@@ -2,4 +2,7 @@
 kaagazz_app/
 kaagazz_themes/
 
+node_modules/
+package-lock.json
+
 
