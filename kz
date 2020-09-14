@@ -1,6 +1,6 @@
 #!/usr/bin/node
 
-const kz = require("./kaagazz_app/kaagazz").kaagazz;
+const kz = require("./kzapp/kaagazz").kaagazz;
 kz.Run();
 
 
