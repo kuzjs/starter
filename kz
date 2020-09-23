@@ -1,0 +1,6 @@
+#!/usr/bin/node
+
+const kuz = require("./kuz");
+kuz.run();
+
+
