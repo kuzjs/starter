@@ -1,6 +1,7 @@
 #!/usr/bin/node
 
-const kuz = require("./kuz");
+const KuzApp = require("./kuz");
+const kuz = new KuzApp();
 kuz.run();
 
 
