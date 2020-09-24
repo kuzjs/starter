@@ -1,0 +1,16 @@
+
+SITE_NAME = starter
+SITE_URL = https://starter.kaagazz.com
+SITE_REPO = https://github.com/kuzjs/starter
+
+analytics = analytics.html
+themes = [default]
+
+[json]
+navbar = data/json/navbar.json
+footer = data/json/footer.json
+
+[code]
+analytics = data/analytics.html
+
+
