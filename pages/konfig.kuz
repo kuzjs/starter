@@ -4,7 +4,11 @@
 ====================
 
 [index]
-x/
+
+author/
+category/
+tag/
+
 about
 404
 
