@@ -1,0 +1,47 @@
+{
+	"info": [
+		{
+			"title": "Personal Website",
+			"url": "https://ankurseth.in"
+		},
+		{
+			"title": "About",
+			"url": "https://kaagazz.com/about"
+		},
+		{
+			"title": "Terms and Conditions",
+			"url": "https://kaagazz.com/terms"
+		},
+		{
+			"title": "Privacy Policy",
+			"url": "https://kaagazz.com/privacy"
+		},
+		{
+			"title": "Contact",
+			"url": "https://kaagazz.com/contact"
+		}
+	],
+
+	"social": [
+		{
+			"title": "Facebook",
+			"url": "https://www.facebook.com/madhumeya"
+		},
+		{
+			"title": "GitHub",
+			"url": "https://github.com/madhumeya"
+		},
+		{
+			"title": "Instagram",
+			"url": "https://www.instagram.com/madhumeya/"
+		},
+		{
+			"title": "LinkedIn",
+			"url": "https://www.linkedin.com/in/madhumeya/"
+		},
+		{
+			"title": "Twitter",
+			"url": "https://twitter.com/madhumeya"
+		}
+	]
+}

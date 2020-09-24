@@ -1,0 +1,20 @@
+{
+	"navbar": [
+		{
+			"title": "Home",
+			"url": "https://kaagazz.com"
+		},
+		{
+			"title": "About",
+			"url": "https://kaagazz.com/about"
+		},
+		{
+			"title": "Contact",
+			"url": "https://kaagazz.com/contact"
+		},
+		{
+			"title": "GitHub",
+			"url": "https://github.com/kaagazz/webapp"
+		}
+	]
+}
